@@ -83,3 +83,15 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+
+.gradle
+.idea/
+
+.idea/misc.xml
+.DS_Store
+app/build/
+
+app/.cxx/
+gradle/*
+
